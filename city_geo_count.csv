@@ -1,0 +1,1901 @@
+Country,City,0
+ae,abu dhabi,45
+af,qandahar,1
+am,noyemberyan,1
+am,yeghvard,1
+ao,huambo,1
+ar,azul,1
+ar,bahia blanca,2
+ar,catamarca,2
+ar,comodoro rivadavia,1
+ar,concordia,1
+ar,cordoba,1
+ar,general roca,2
+ar,gualeguaychu,1
+ar,jujuy,1
+ar,la rioja,3
+ar,libertador general san martin,1
+ar,mercedes,4
+ar,neuquen,2
+ar,olavarria,3
+ar,parana,1
+ar,posadas,1
+ar,presidencia roque saenz pena,3
+ar,rafaela,1
+ar,reconquista,2
+ar,rio cuarto,1
+ar,rosario,3
+ar,san carlos de bariloche,1
+ar,san juan,1
+ar,san luis,1
+ar,san vicente,1
+ar,santa fe,1
+ar,santiago del estero,1
+ar,trelew,2
+ar,tres arroyos,2
+ar,tucuman,1
+ar,ushuaia,915
+ar,venado tuerto,1
+ar,victoria,2
+ar,viedma,1
+ar,villa carlos paz,5
+at,feldkirchen an der donau,1
+at,innsbruck,1
+at,landeck,1
+at,reutte,1
+at,sankt florian,1
+at,waidhofen,1
+at,wiener neustadt,1
+au,albany,3
+au,alice springs,9
+au,australind,1
+au,ballarat,1
+au,broken hill,41
+au,broome,1
+au,burnie,2
+au,carnarvon,7
+au,collie,3
+au,cooma,2
+au,cootamundra,2
+au,corowa,1
+au,cowra,1
+au,cranbourne,1
+au,dalby,1
+au,deniliquin,4
+au,dubbo,2
+au,emerald,5
+au,esperance,168
+au,flinders,131
+au,forbes,1
+au,gawler,3
+au,geraldton,15
+au,gladstone,1
+au,goulburn,1
+au,griffith,2
+au,hobart,1
+au,horsham,3
+au,ingham,1
+au,inverell,2
+au,karratha,1
+au,katherine,1
+au,kununurra,2
+au,kyabram,2
+au,launceston,2
+au,leeton,1
+au,maryborough,2
+au,mildura,3
+au,moree,4
+au,morwell,2
+au,mount gambier,3
+au,mount isa,4
+au,murray bridge,6
+au,narrabri,1
+au,ngukurr,2
+au,nhulunbuy,1
+au,northam,12
+au,orange,1
+au,perth,1
+au,port augusta,14
+au,port hedland,8
+au,port lincoln,3
+au,port macquarie,1
+au,rockhampton,1
+au,roebourne,4
+au,roma,1
+au,sawtell,1
+au,singleton,1
+au,swan hill,3
+au,tamworth,1
+au,wagga wagga,1
+au,whyalla,3
+au,wollongong,1
+au,yulara,125
+az,lerik,1
+az,susa,1
+ba,gnojnica,1
+ba,trebinje,1
+bd,bhola,1
+bd,dohar,1
+bd,hajiganj,1
+bd,ishurdi,1
+bd,laksham,1
+bd,pirganj,1
+bd,sakhipur,2
+be,beauvechain,1
+be,gent,1
+be,mettet,1
+be,quievrain,1
+bf,bogande,1
+bf,diapaga,1
+bf,gayeri,1
+bf,hounde,1
+bf,kaya,1
+bf,koupela,1
+bf,sapouy,1
+bg,belogradcik,1
+bg,kermen,1
+bg,razgrad,1
+bg,silistra,1
+bg,trojan,1
+bo,challapata,1
+bo,huanuni,1
+br,angra dos reis,1
+br,araripe,1
+br,astorga,1
+br,balsas,1
+br,barroso,1
+br,bento goncalves,1
+br,bocaiuva,1
+br,bom sucesso,1
+br,buritizeiro,1
+br,cacapava do sul,1
+br,cantanhede,1
+br,casimiro de abreu,1
+br,cassilandia,1
+br,conceicao das alagoas,1
+br,diamantina,1
+br,encantado,1
+br,foz do iguacu,1
+br,frutal,1
+br,governador valadares,1
+br,gramado,1
+br,guacui,1
+br,itajuba,1
+br,luziania,1
+br,mafra,1
+br,marilia,1
+br,monte santo,1
+br,niquelandia,1
+br,nova serrana,1
+br,ouro fino,1
+br,palmas de monte alto,1
+br,para de minas,1
+br,parambu,1
+br,paramirim,1
+br,patos de minas,2
+br,pendencias,1
+br,pesqueira,1
+br,pompeu,1
+br,porto alegre,1
+br,prainha,1
+br,prata,1
+br,promissao,1
+br,quijingue,1
+br,rio negro,1
+br,sacramento,1
+br,santa vitoria do palmar,1
+br,sao francisco do sul,1
+br,sao joao nepomuceno,1
+br,sao jose do rio preto,1
+br,sao luis de montes belos,1
+br,sete lagoas,1
+br,uberlandia,1
+br,uruacu,1
+br,varzea alegre,1
+br,videira,1
+br,vitoria da conquista,1
+bw,mosetse,1
+bw,sehithwa,2
+bw,tsienyane,1
+by,disna,1
+by,salihorsk,1
+by,stolin,1
+by,zlobin,2
+ca,ayr,1
+ca,biggar,2
+ca,black diamond,1
+ca,bracebridge,1
+ca,camrose,1
+ca,carman,1
+ca,desbiens,1
+ca,drayton valley,1
+ca,dresden,1
+ca,edmonton,1
+ca,eganville,1
+ca,englehart,1
+ca,gaspe,1
+ca,gimli,1
+ca,golden,1
+ca,grimshaw,1
+ca,hagersville,2
+ca,humboldt,2
+ca,lamont,3
+ca,langham,2
+ca,laurentides,1
+ca,lloydminster,1
+ca,madoc,2
+ca,magrath,1
+ca,maple creek,1
+ca,mayo,2
+ca,midland,1
+ca,parry sound,1
+ca,pinawa,2
+ca,prince albert,1
+ca,saint paul,1
+ca,shaunavon,1
+ca,shelburne,1
+ca,sicamous,1
+ca,smithville,1
+ca,sorel,1
+ca,southampton,1
+ca,steinbach,1
+ca,taber,1
+ca,vermilion,1
+ca,viking,2
+ca,vulcan,1
+ca,weyburn,1
+ca,whitecourt,1
+ca,whitehorse,2
+ca,woodstock,1
+ca,wynyard,1
+ca,yellowknife,2
+cd,basoko,1
+cd,bumba,1
+cd,moba,1
+cf,baoro,1
+cf,birao,1
+ch,arosa,1
+ch,dudingen,2
+ch,ecublens,1
+ch,kirchberg,1
+ch,langnau,1
+ch,nidau,1
+ch,orbe,1
+cl,antofagasta,59
+cl,calama,7
+cl,coihaique,2
+cl,copiapo,7
+cl,diego de almagro,7
+cl,iquique,5
+cl,mulchen,1
+cl,ovalle,1
+cl,punta arenas,111
+cl,santiago,1
+cl,taltal,315
+cl,tocopilla,3
+cm,guider,1
+cm,tignere,2
+cn,aksu,2
+cn,altay,1
+cn,babu,1
+cn,baoying,1
+cn,beipiao,1
+cn,bose,1
+cn,bozhou,1
+cn,changde,1
+cn,changji,1
+cn,chifeng,3
+cn,dafeng,1
+cn,dangtu,1
+cn,enshi,2
+cn,fengxian,1
+cn,fengzhen,1
+cn,fuyang,1
+cn,fuyu,1
+cn,guangyuan,1
+cn,guiyang,2
+cn,hami,7
+cn,hede,1
+cn,hengshui,1
+cn,heze,2
+cn,hohhot,1
+cn,huilong,2
+cn,jiangyou,1
+cn,jieshou,1
+cn,jimo,1
+cn,jinchengjiang,1
+cn,jining,1
+cn,jishou,1
+cn,jiuquan,1
+cn,jiutai,1
+cn,lanxi,1
+cn,laohekou,1
+cn,leshan,1
+cn,linjiang,1
+cn,linxia,1
+cn,minggang,1
+cn,miyang,1
+cn,nanchang,1
+cn,nanhai,1
+cn,nanning,1
+cn,neijiang,1
+cn,ningbo,1
+cn,renqiu,1
+cn,rucheng,1
+cn,sanming,1
+cn,shanghai,1
+cn,shitanjing,1
+cn,shizilu,1
+cn,shuangyang,1
+cn,suozhen,1
+cn,taizhou,1
+cn,taonan,1
+cn,tongliao,1
+cn,tongren,1
+cn,urumqi,1
+cn,wuan,1
+cn,wulanhaote,1
+cn,xiaolingwei,1
+cn,xiazhen,1
+cn,xihe,2
+cn,xinan,1
+cn,xingyi,1
+cn,xiongzhou,1
+cn,yangjiang,1
+cn,yima,1
+cn,yingcheng,1
+cn,yingzhong,1
+cn,yushan,1
+cn,yushu,1
+cn,zaoyang,1
+cn,zhaodong,1
+cn,zhuanghe,2
+co,cali,1
+co,santa rosa de viterbo,1
+cr,san rafael,1
+cu,manicaragua,1
+cz,blansko,1
+cz,broumov,1
+cz,brtnice,1
+cz,bystrice,2
+cz,dobra,1
+cz,horovice,1
+cz,litomerice,1
+cz,loket,1
+cz,lutin,1
+cz,lysa nad labem,1
+cz,okrisky,1
+cz,opava,1
+cz,ostrava,1
+cz,otrokovice,1
+cz,police nad metuji,1
+cz,pribram,1
+cz,sedlcany,1
+cz,tabor,1
+cz,tepla,1
+cz,usti nad orlici,1
+cz,veseli nad moravou,1
+cz,vimperk,1
+cz,zlin,1
+de,aachen,1
+de,altenholz,1
+de,altenstadt,1
+de,auerbach,1
+de,bad salzungen,1
+de,barntrup,1
+de,bitburg,1
+de,brakel,1
+de,bremervorde,1
+de,darmstadt,1
+de,eberswalde,1
+de,eichstatt,1
+de,gera,1
+de,gutersloh,1
+de,haiger,1
+de,hildburghausen,1
+de,hilpoltstein,1
+de,ibbenburen,1
+de,ilmenau,1
+de,kirn,1
+de,ludwigsfelde,1
+de,mainz,1
+de,marburg,1
+de,mindelheim,1
+de,minden,1
+de,monschau,1
+de,nauen,1
+de,neustrelitz,1
+de,nordhausen,1
+de,obernkirchen,1
+de,offenburg,1
+de,oschersleben,1
+de,osnabruck,1
+de,overath,1
+de,pirna,1
+de,radeberg,1
+de,salzwedel,1
+de,schwalmstadt,1
+de,trostberg,1
+de,velen,1
+de,waltershausen,1
+de,wardenburg,2
+de,wernigerode,1
+de,zweibrucken,1
+dk,aabenraa,1
+dk,arhus,1
+dk,gorlev,1
+dk,maribo,1
+dk,praesto,1
+dz,adrar,371
+dz,aflu,1
+dz,birin,1
+dz,tazmalt,1
+dz,tigzirt,1
+dz,warqla,179
+ec,daule,1
+ee,adavere,1
+ee,mammaste,1
+ee,orissaare,1
+ee,valjala,1
+eg,abnub,3
+eg,alexandria,1
+eg,aswan,1
+eg,asyut,1
+eg,el faiyum,2
+eg,esna,1
+eg,ismailia,1
+eg,marsa matruh,7
+eg,matay,5
+eg,rosetta,1
+eg,safaga,1
+es,aguimes,3
+es,albolote,1
+es,almoradi,1
+es,aranda de duero,1
+es,barbastro,1
+es,camas,1
+es,canals,1
+es,castelldefels,1
+es,don benito,1
+es,girona,1
+es,la roda,1
+es,leon,1
+es,llanera,1
+es,lleida,1
+es,logrono,1
+es,madrid,1
+es,madridejos,1
+es,molina de segura,1
+es,monzon,1
+es,murcia,1
+es,olivenza,1
+es,penarroya-pueblonuevo,1
+es,puerto del rosario,18
+es,reinosa,1
+es,sant pere de ribes,1
+es,torrijos,1
+es,verin,1
+es,villaviciosa,1
+et,debre birhan,1
+et,gewane,1
+et,harer,1
+et,nedjo,1
+et,sebeta,1
+et,sendafa,1
+fi,hamina,1
+fi,huittinen,1
+fi,kajaani,1
+fi,kemijarvi,1
+fi,lappeenranta,1
+fi,mikkeli,1
+fi,naantali,1
+fi,porvoo,2
+fi,siilinjarvi,1
+fi,turku,1
+fi,valkeala,1
+fr,agen,1
+fr,ales,1
+fr,amboise,1
+fr,amilly,1
+fr,apt,2
+fr,aubenas,1
+fr,bastia,1
+fr,bernay,1
+fr,besancon,1
+fr,biscarrosse,1
+fr,blagnac,1
+fr,blois,1
+fr,castelnaudary,1
+fr,chateaudun,1
+fr,chateauroux,1
+fr,chatellerault,1
+fr,cognac,1
+fr,comines,1
+fr,epinal,1
+fr,gerzat,1
+fr,grasse,2
+fr,joue-les-tours,1
+fr,la rochelle,1
+fr,langres,1
+fr,lannion,1
+fr,le mans,1
+fr,limoux,1
+fr,louviers,1
+fr,macon,1
+fr,marmande,2
+fr,millau,1
+fr,mont-de-marsan,1
+fr,montauban,1
+fr,morlaix,2
+fr,narbonne,1
+fr,oloron-sainte-marie,1
+fr,pau,1
+fr,poitiers,2
+fr,pontivy,1
+fr,rodez,1
+fr,romans-sur-isere,1
+fr,romilly-sur-seine,1
+fr,rumilly,1
+fr,saint-gaudens,1
+fr,sainte-savine,1
+fr,salon-de-provence,1
+fr,sedan,1
+fr,sens,1
+fr,soyaux,1
+fr,tonneins,1
+fr,toulouse,1
+fr,troyes,1
+fr,tulle,1
+fr,valreas,2
+fr,vannes,1
+fr,vendome,1
+fr,vertou,1
+fr,vierzon,1
+fr,villefranche-sur-saone,1
+fr,vire,1
+fr,vitre,1
+fr,wittenheim,1
+gb,andover,1
+gb,antrim,1
+gb,bicester,1
+gb,bishopbriggs,1
+gb,caernarfon,2
+gb,cambridge,1
+gb,coupar angus,1
+gb,freuchie,1
+gb,hinckley,1
+gb,ivybridge,1
+gb,lurgan,1
+gb,middlesbrough,1
+gb,northallerton,1
+gb,perth,1
+gb,peterborough,1
+gb,scarborough,1
+gb,skelmersdale,1
+gb,swindon,1
+gb,telford,1
+gb,witney,1
+gh,bawku,1
+gl,illoqqortoormiut,1
+gl,narsaq,2
+gl,upernavik,1
+gr,serrai,1
+gt,villa canales,1
+gy,lethem,1
+hn,gracias,1
+hr,karlovac,1
+hr,krapina,1
+hr,varazdin,1
+hu,kaba,1
+hu,komadi,1
+hu,labod,1
+hu,mariapocs,1
+hu,nyirabrany,1
+hu,sopron,1
+hu,urkut,1
+hu,vasarosnameny,1
+id,bandung,1
+id,banjar,1
+id,cepu,1
+id,denpasar,1
+id,garut,1
+id,jakarta,1
+id,jepara,1
+id,kediri,1
+id,leuwiliang,1
+id,madiun,1
+id,magetan,1
+id,majalengka,1
+id,ngawi,2
+id,pandegelang,1
+id,purworejo,1
+id,rembang,1
+id,singaraja,1
+id,surakarta,1
+ie,bagenalstown,1
+ie,ballybofey,1
+ie,shannon,1
+ie,tipperary,2
+il,elat,2
+in,akaltara,1
+in,aklera,1
+in,amarwara,1
+in,amla,1
+in,atarra,1
+in,atraulia,1
+in,bagaha,2
+in,balrampur,1
+in,bansdih,1
+in,bargarh,1
+in,bargur,1
+in,baripada,1
+in,basti,4
+in,bayana,1
+in,bettiah,1
+in,bhadohi,1
+in,bhikangaon,1
+in,bhinmal,1
+in,chail,1
+in,charthawal,1
+in,chhabra,1
+in,chikhli,1
+in,dergaon,1
+in,dewas,1
+in,dharampur,1
+in,dhule,1
+in,dum duma,1
+in,dumra,1
+in,fatehabad,2
+in,fatehpur,1
+in,ghanaur,1
+in,gidam,1
+in,goalpara,1
+in,haveri,1
+in,honnali,1
+in,islamnagar,1
+in,jagalur,1
+in,jagdalpur,1
+in,jamkhed,1
+in,jhusi,1
+in,jodhpur,1
+in,jodiya,1
+in,kangra,1
+in,kasba,1
+in,kelamangalam,1
+in,khachrod,1
+in,khairagarh,1
+in,khatra,1
+in,khetri,1
+in,kodaikanal,1
+in,kot putli,1
+in,kota,1
+in,laksar,1
+in,loharu,1
+in,madanapalle,1
+in,maddur,1
+in,mahasamund,1
+in,mainpuri,1
+in,makhu,1
+in,mandawar,1
+in,masuri,1
+in,mau,2
+in,mawana,1
+in,methala,1
+in,mihijam,1
+in,moradabad,1
+in,muzaffarpur,2
+in,nagamangala,1
+in,naini tal,1
+in,najibabad,1
+in,narwana,1
+in,new delhi,1
+in,nongpoh,1
+in,nuzvid,1
+in,padrauna,1
+in,pakala,1
+in,palampur,1
+in,pali,1
+in,paradwip,1
+in,parvatipuram,1
+in,patiala,1
+in,patrasaer,1
+in,pennathur,1
+in,phalodi,1
+in,pithora,1
+in,pondicherry,1
+in,purna,1
+in,raipur,1
+in,rajakhera,1
+in,rajula,1
+in,rampur hat,1
+in,ratangarh,1
+in,rawatsar,1
+in,rewari,1
+in,sabrum,1
+in,sadat,2
+in,sagauli,1
+in,saharsa,1
+in,salon,1
+in,sambhal,1
+in,sandi,1
+in,sarka ghat,1
+in,sasvad,1
+in,sayalgudi,1
+in,sayla,1
+in,shahpura,1
+in,shankargarh,1
+in,sherghati,1
+in,shupiyan,1
+in,sidhi,1
+in,sikandra rao,1
+in,sillod,1
+in,sojat,1
+in,sonamukhi,1
+in,sultanpur,1
+in,telhara,1
+in,tirodi,1
+in,tirupati,1
+in,tirur,1
+in,udupi,1
+in,vadlapudi,1
+in,varanasi,1
+in,varangaon,1
+in,wai,1
+iq,kirkuk,2
+ir,kashan,1
+ir,kerman,1
+ir,varamin,1
+it,agrigento,1
+it,assisi,1
+it,aulla,1
+it,bologna,1
+it,bondeno,1
+it,borgo san dalmazzo,1
+it,broni,1
+it,casale monferrato,2
+it,castel san pietro terme,1
+it,castrovillari,1
+it,cento,1
+it,chiari,1
+it,fidenza,1
+it,gorizia,1
+it,manerbio,1
+it,marcon,1
+it,messina,1
+it,mondolfo,1
+it,montagnana,1
+it,nonantola,1
+it,palagonia,1
+it,palombara sabina,1
+it,patti,1
+it,porto san giorgio,1
+it,san martino buon albergo,1
+it,sinalunga,1
+it,sinnai,1
+it,solaro,1
+it,terni,1
+it,tortona,1
+it,treia,1
+it,treviglio,1
+it,turin,1
+it,vittorio veneto,1
+jm,bull savanna,1
+jp,aki,1
+jp,bibai,1
+jp,fukue,2
+jp,hachioji,1
+jp,hamamatsu,1
+jp,hashima,1
+jp,hatsukaichi,1
+jp,hirado,1
+jp,hofu,1
+jp,honjo,2
+jp,iiyama,1
+jp,iruma,1
+jp,iwakuni,1
+jp,joetsu,1
+jp,kamiichi,1
+jp,kanzaki,1
+jp,kasamatsu,1
+jp,kesennuma,1
+jp,kobe,1
+jp,komatsu,1
+jp,kurashiki,1
+jp,kusatsu,1
+jp,mino,1
+jp,mitsukaido,1
+jp,nagahama,1
+jp,nagai,1
+jp,naka,1
+jp,namioka,1
+jp,nogata,1
+jp,ogori,1
+jp,okaya,1
+jp,okuchi,1
+jp,omagari,2
+jp,saga,2
+jp,sakaide,1
+jp,sakaiminato,1
+jp,sasayama,2
+jp,shinichi,1
+jp,shirone,1
+jp,tahara,1
+jp,tendo,2
+jp,tokyo,1
+jp,tomisato,1
+jp,tomiya,1
+jp,tonami,1
+jp,towada,1
+jp,toyoake,1
+jp,toyooka,1
+jp,tsuruga,1
+jp,umi,1
+ke,mandera,1
+ke,mariakani,1
+ke,rumuruti,1
+ke,thika,1
+kh,kampong cham,1
+kh,phnum penh,1
+kr,seoul,1
+kz,aksu,1
+kz,alekseyevka,2
+kz,atbasar,1
+kz,beyneu,1
+kz,kazalinsk,1
+kz,krasnoarmeysk,1
+kz,kurchum,1
+kz,lisakovsk,1
+kz,merke,1
+kz,pavlodar,2
+kz,urdzhar,1
+kz,zachagansk,1
+lb,beirut,1
+lk,kadugannawa,1
+lk,mullaitivu,1
+ls,maseru,1
+ls,thaba-tseka,1
+lt,anyksciai,1
+lt,kavarskas,1
+lt,panevezys,1
+lt,plunge,1
+lu,steinheim,1
+lv,auce,1
+lv,ilukste,1
+lv,priekule,1
+ly,ajdabiya,1
+ly,awbari,152
+ly,awjilah,1
+ly,bardiyah,2
+ly,darnah,1
+ly,gat,6
+ly,hun,271
+ly,jadu,4
+ly,jalu,21
+ly,marzuq,2
+ly,mizdah,109
+ly,nalut,31
+ly,sabha,896
+ly,waddan,12
+ma,fez,1
+ma,marrakesh,66
+ma,mrirt,86
+ma,tarudant,7
+ma,tiznit,65
+mg,ambanja,1
+ml,araouane,1
+ml,bafoulabe,1
+ml,djenne,1
+ml,nioro,1
+ml,sokolo,1
+ml,taoudenni,12
+ml,tessalit,18
+mm,henzada,1
+mm,pakokku,1
+mm,toungoo,1
+mn,baruun-urt,1
+mn,bulgan,1
+mn,hovd,2
+mn,mandalgovi,3
+mr,atar,12
+mr,maghama,3
+mr,nouadhibou,1
+mu,albion,1
+mw,chitipa,1
+mw,dowa,1
+mw,liwonde,2
+mw,mzimba,1
+mw,nkhotakota,1
+mx,acapulco,1
+mx,acuna,2
+mx,algodones,3
+mx,altar,1
+mx,ameca,1
+mx,arteaga,1
+mx,asuncion nochixtlan,1
+mx,atoyac,1
+mx,ayoquezco,1
+mx,benjamin hill,1
+mx,caborca,1
+mx,canatlan,1
+mx,charcas,1
+mx,chihuahua,4
+mx,chilac,1
+mx,concepcion del oro,7
+mx,constitucion,1
+mx,creel,1
+mx,cuencame,1
+mx,cuicatlan,1
+mx,cumpas,1
+mx,dolores hidalgo,1
+mx,durango,2
+mx,guadalupe y calvo,1
+mx,hidalgo,1
+mx,ignacio zaragoza,1
+mx,jacala,1
+mx,jimenez,1
+mx,la reforma,1
+mx,loreto,1
+mx,los zacatones,1
+mx,madera,1
+mx,mapimi,1
+mx,matamoros,1
+mx,mazamitla,1
+mx,moctezuma,1
+mx,muzquiz,1
+mx,nacozari,1
+mx,nativitas,2
+mx,nombre de dios,2
+mx,nuevo casas grandes,1
+mx,ocampo,1
+mx,ojinaga,2
+mx,ojo caliente,1
+mx,papasquiaro,2
+mx,praxedis guerrero,1
+mx,progreso,1
+mx,puerto palomas,1
+mx,rodeo,1
+mx,sabinas hidalgo,1
+mx,san buenaventura,1
+mx,san jose el alto,1
+mx,san jose temascatio,1
+mx,santa catarina de tepehuanes,1
+mx,santa clara,1
+mx,santa engracia,1
+mx,santa rosalia,1
+mx,silao,1
+mx,sinaloa,1
+mx,sombrerete,1
+mx,sonoita,1
+mx,tayoltita,1
+mx,teocaltiche,1
+mx,tepechitlan,1
+mx,tlacoyalco,1
+mx,tlahualilo,2
+mx,tlanalapan,1
+mx,tomatlan,1
+mx,valle de allende,12
+mx,zacatecas,1
+mx,zinapecuaro,1
+na,grootfontein,1
+na,karasburg,1
+na,keetmanshoop,1
+na,luderitz,1
+na,maltahohe,2
+na,mariental,3
+na,okahandja,1
+na,ondangwa,2
+na,opuwo,1
+na,oshikango,1
+na,walvis bay,4
+na,warmbad,1
+nc,la foa,1
+ne,agadez,2
+ne,arlit,12
+ne,bilma,16
+ne,dosso,1
+ne,illela,1
+ne,madarounfa,1
+ne,magaria,1
+ne,maine-soroa,1
+ne,tera,1
+ne,tillabery,1
+ne,zinder,1
+ng,azare,1
+ng,bauchi,2
+ng,daura,1
+ng,funtua,1
+ng,gashua,1
+ng,hadejia,1
+ng,ikot ekpene,1
+ng,jos,1
+ng,kano,1
+ng,lafia,1
+ng,makurdi,1
+ng,otukpo,1
+ng,sokoto,1
+ng,yola,1
+nl,de bilt,1
+nl,enschede,1
+nl,goedereede,1
+nl,uden,1
+nl,vlagtwedde,1
+no,as,1
+no,hauknes,1
+no,hoyanger,1
+no,kautokeino,1
+no,kragero,1
+no,larkollen,1
+no,nordfjordeid,1
+no,ovre ardal,1
+no,rypefjord,1
+no,skreia,1
+no,tvedestrand,1
+no,vage,1
+no,valer,1
+no,viksoyri,1
+nz,bluff,11918
+nz,dobson,1
+nz,hawera,1
+nz,hunterville,1
+nz,invercargill,1
+nz,lower hutt,1
+nz,oxford,1
+nz,pareora,1
+nz,tolaga bay,1
+om,ibra,60
+om,nizwa,1051
+om,salalah,1877
+pe,desaguadero,1
+pe,puquio,1
+pe,santiago,1
+pf,mataura,253
+pf,rikitea,4
+pg,goroka,1
+pg,kavieng,1
+ph,bagupaye,1
+ph,camanci,1
+ph,kalanganan,1
+ph,lapog,1
+ph,san patricio,1
+pk,bahawalpur,1
+pk,chor,1
+pk,darya khan mari,1
+pk,doaba,1
+pk,gambat,1
+pk,garhi yasin,1
+pk,harnoli,1
+pk,jhang,1
+pk,khipro,1
+pk,khuzdar,1
+pk,mailsi,1
+pk,mankera,1
+pk,mardan,1
+pk,pishin,1
+pk,sadiqabad,1
+pl,bialystok,1
+pl,bilgoraj,1
+pl,czarnkow,1
+pl,gizycko,1
+pl,gorlice,1
+pl,lowicz,1
+pl,miedzyrzecz,1
+pl,nowa deba,1
+pl,ostrowiec swietokrzyski,1
+pl,poznan,1
+pl,pruszkow,1
+pl,pultusk,1
+pl,slupca,1
+pl,stargard szczecinski,1
+pl,swiecie,1
+pl,zabkowice slaskie,1
+pl,zielona gora,1
+pt,aljustrel,1
+pt,castro verde,1
+pt,evora,1
+pt,vila verde,1
+pt,vila vicosa,1
+qa,abu samrah,8
+qa,umm bab,1
+re,saint-philippe,2494
+re,sainte-rose,1
+ro,alba iulia,1
+ro,berca,1
+ro,danesti,1
+ro,floresti,1
+ro,mihaileni,1
+ro,mociu,1
+ro,nasturelu,1
+ro,sopot,1
+ro,ticvaniu mare,1
+ro,tuzla,1
+rs,boljevac,1
+rs,cacak,2
+rs,dimitrovgrad,1
+rs,guca,1
+rs,mali zvornik,1
+ru,akkermanovka,1
+ru,alekseyevka,1
+ru,anadyr,2
+ru,atyashevo,1
+ru,bagdarin,1
+ru,balakhta,1
+ru,baltay,1
+ru,batagay,1
+ru,batagay-alyta,1
+ru,bavleny,1
+ru,bay-khaak,1
+ru,belgorod,1
+ru,belozerskoye,1
+ru,berezovka,1
+ru,bilibino,2
+ru,birsk,1
+ru,blagoveshchenka,2
+ru,bodaybo,1
+ru,bugulma,1
+ru,buinsk,1
+ru,burkhala,1
+ru,cherskiy,1
+ru,chkalovskoye,1
+ru,chokurdakh,1
+ru,dzhebariki-khaya,1
+ru,evensk,1
+ru,goryachiy klyuch,1
+ru,gzhatsk,1
+ru,iki-burul,1
+ru,issa,1
+ru,itatskiy,1
+ru,iznoski,2
+ru,kamyshla,1
+ru,kamyshlov,1
+ru,kapustin yar-1,2
+ru,kargapolye,1
+ru,karmaskaly,1
+ru,kashin,1
+ru,kasimov,1
+ru,khabary,1
+ru,khani,1
+ru,kirishi,1
+ru,kodinsk,1
+ru,kolpashevo,1
+ru,komsomolskiy,2
+ru,krasnousolskiy,1
+ru,krasnovishersk,1
+ru,kremenki,1
+ru,kulunda,1
+ru,kunashak,1
+ru,kuvandyk,1
+ru,kuzedeyevo,1
+ru,kvarkeno,1
+ru,kyren,1
+ru,kyshtovka,1
+ru,letnyaya stavka,2
+ru,malinovoye ozero,1
+ru,mendeleyevo,1
+ru,menzelinsk,1
+ru,meshchovsk,2
+ru,mezhdurechensk,1
+ru,mikhaylovskoye,1
+ru,mogochin,1
+ru,mokrousovo,1
+ru,mozhaysk,1
+ru,muslyumovo,1
+ru,nadterechnoye,1
+ru,nagornyy,1
+ru,nizhniy chir,1
+ru,nizhniy tsasuchey,1
+ru,novopokrovka,1
+ru,novosheshminsk,1
+ru,novosibirsk,1
+ru,novosil,1
+ru,okhansk,1
+ru,okoneshnikovo,1
+ru,oktyabrskiy,2
+ru,onokhoy,1
+ru,pallasovka,1
+ru,pashkovskiy,1
+ru,pervomayskiy,1
+ru,safakulevo,1
+ru,sapozhok,1
+ru,sedelnikovo,1
+ru,serafimovich,1
+ru,sergeyevka,1
+ru,severnoye,1
+ru,seymchan,1
+ru,shipunovo,1
+ru,shirokiy,1
+ru,solnechnyy,1
+ru,soloneshnoye,1
+ru,sortavala,1
+ru,sovetsk,1
+ru,sovetskaya,1
+ru,staraya poltavka,1
+ru,stavropol,1
+ru,sterlitamak,1
+ru,sukpak,1
+ru,suntar,1
+ru,susuman,1
+ru,svetlyy yar,1
+ru,tarbagatay,1
+ru,toora-khem,1
+ru,turki,1
+ru,tygda,1
+ru,tyumen,1
+ru,ulety,1
+ru,ulyanovsk,1
+ru,ust-kulom,1
+ru,ust-nera,1
+ru,vargashi,1
+ru,vengerovo,2
+ru,veshenskaya,1
+ru,vetluga,1
+ru,vyazma,1
+ru,zalesovo,1
+ru,zavetnoye,1
+ru,zhigansk,1
+ru,zolotinka,1
+sa,abha,1
+sa,najran,1
+sa,riyadh,4
+sa,tabuk,1
+sa,tarut,1
+sa,umm lajj,1
+sd,abu zabad,1
+sd,kapoeta,1
+sd,kassala,1
+sd,malakal,1
+sd,marawi,2
+sd,maridi,1
+sd,umm kaddadah,1
+sd,umm ruwabah,1
+sd,wagar,1
+se,angelholm,1
+se,arvika,1
+se,landskrona,1
+se,ludvika,1
+se,nybro,1
+se,nykoping,1
+se,ostersund,1
+se,skara,17
+se,skelleftea,1
+se,uppsala,2
+se,vastervik,1
+se,ystad,1
+si,jesenice,1
+si,zelezniki,1
+sk,hlohovec,1
+sk,kosice,1
+sk,liptovsky mikulas,1
+sk,namestovo,1
+sk,sabinov,1
+sk,snina,1
+sk,zilina,1
+so,barawe,1
+so,bosaso,1
+so,hobyo,1
+so,wajid,1
+sy,aleppo,1
+sz,nhlangano,1
+td,dourbali,1
+td,massaguet,1
+th,loei,1
+th,lom sak,1
+th,nakhon pathom,1
+th,sansai,1
+tm,akdepe,1
+tm,annau,1
+tm,boldumsaz,1
+tm,buzmeyin,2
+tm,gazojak,1
+tm,seydi,1
+tn,bin qirdan,1
+tn,duz,3
+tn,matir,1
+tn,safaqis,1
+tn,tabarqah,1
+tn,talah,1
+tn,tatawin,19
+tr,akdagmadeni,1
+tr,antalya,1
+tr,bodrum,1
+tr,bursa,1
+tr,canakkale,1
+tr,emirdag,1
+tr,fethiye,1
+tr,izmir,1
+tr,karakose,1
+tr,kestel,1
+tr,menemen,1
+tr,soke,1
+tz,dongobesh,1
+tz,igurusi,1
+tz,kahama,1
+tz,karatu,1
+tz,laela,1
+tz,malampaka,1
+tz,maposeni,1
+tz,nachingwea,1
+tz,vwawa,1
+ua,artemovsk,1
+ua,bila tserkva,1
+ua,bilopillya,1
+ua,blagodatnoye,2
+ua,boromlya,1
+ua,boyarka,1
+ua,chornobayivka,1
+ua,gornyak,1
+ua,horlivka,1
+ua,horodyshche,1
+ua,kaharlyk,1
+ua,kivertsi,1
+ua,krasne,1
+ua,krasnotorka,1
+ua,kuchurhan,1
+ua,lazy,1
+ua,lyubech,1
+ua,nedryhayliv,1
+ua,nizhyn,1
+ua,novomykolayivka,1
+ua,odesa,2
+ua,oleksandrivka,1
+ua,osypenko,1
+ua,pavlohrad,1
+ua,pidhorodna,1
+ua,polyanka,1
+ua,pryshyb,1
+ua,romny,1
+ua,rozhyshche,1
+ua,semenivka,1
+ua,shepetivka,1
+ua,skvyra,1
+ua,sloboda,1
+ua,solone,1
+ua,staryy saltiv,1
+ua,talalayivka,1
+ua,tomakivka,1
+ua,valky,1
+ua,vradiyivka,1
+ug,arua,1
+ug,hoima,1
+ug,kabale,1
+ug,kisoro,1
+ug,lira,1
+ug,mbale,1
+ug,moroto,1
+ug,soroti,1
+us,aberdeen,1
+us,abilene,4
+us,adelanto,4
+us,adrian,1
+us,alamogordo,2
+us,alamosa,6
+us,albany,1
+us,albertville,1
+us,allen,2
+us,alpena,1
+us,altamont,2
+us,altus,3
+us,andrews,14
+us,apple valley,64
+us,arcata,1
+us,ardmore,1
+us,arkansas city,2
+us,artesia,3
+us,asbury park,1
+us,asheboro,2
+us,asheville,5
+us,athens,4
+us,auburn,2
+us,austin,1
+us,aztec,1
+us,bardstown,1
+us,barstow,82
+us,batavia,2
+us,batesville,3
+us,beatrice,3
+us,beeville,3
+us,belen,3
+us,belfast,1
+us,belgrade,1
+us,belle fourche,1
+us,belle glade,1
+us,bellmead,2
+us,belton,1
+us,bemidji,1
+us,bernalillo,2
+us,bethel,1
+us,big rapids,1
+us,big spring,2
+us,black forest,1
+us,bloomingdale,1
+us,bloomington,1
+us,blythe,6
+us,bon air,1
+us,borger,2
+us,boulder city,11
+us,brandon,2
+us,brenham,5
+us,brigham city,1
+us,bristol,2
+us,brookings,1
+us,brownfield,29
+us,brownwood,7
+us,buckeye,2
+us,bucksport,1
+us,bullhead city,4
+us,burkburnett,1
+us,burley,1
+us,butler,1
+us,cadillac,1
+us,caldwell,1
+us,california city,4
+us,cambridge,1
+us,cameron park,1
+us,camp verde,1
+us,campbellsville,2
+us,canon city,6
+us,canton,3
+us,canyon,18
+us,canyon lake,1
+us,cape girardeau,1
+us,carlsbad,1
+us,casper,2
+us,cedar city,6
+us,cedar rapids,2
+us,cedartown,1
+us,centerville,1
+us,central point,1
+us,champlin,1
+us,chandler,1
+us,cheyenne,2
+us,chickasha,1
+us,chino valley,2
+us,cimarron hills,2
+us,cleburne,2
+us,clemson,1
+us,clinton,3
+us,clovis,10
+us,coffeyville,1
+us,cohoes,1
+us,college station,1
+us,columbus,4
+us,commerce city,1
+us,cookeville,4
+us,copperas cove,2
+us,cordele,1
+us,corinth,1
+us,corrales,1
+us,corsicana,1
+us,cortez,4
+us,cottonwood,2
+us,crossville,1
+us,cumberland,1
+us,dallas,1
+us,dalton,2
+us,danville,1
+us,dayton,1
+us,del rio,2
+us,deming,1
+us,denham springs,1
+us,derby,2
+us,desoto,1
+us,destin,1
+us,dickinson,3
+us,dickson,1
+us,dodge city,6
+us,drexel heights,5
+us,dublin,1
+us,dumas,13
+us,duncan,1
+us,durant,2
+us,east wenatchee bench,2
+us,eatonton,1
+us,eden,4
+us,el dorado,1
+us,el reno,1
+us,elk city,2
+us,elko,2
+us,eloy,2
+us,emporia,5
+us,enid,4
+us,erie,1
+us,eufaula,1
+us,eustis,1
+us,evans,1
+us,evanston,1
+us,fairbanks,1
+us,fairborn,1
+us,fairfield,1
+us,fallon,23
+us,farmington,2
+us,farragut,1
+us,fayetteville,1
+us,fernley,19
+us,flagstaff,1
+us,flowing wells,1
+us,fort morgan,12
+us,fort payne,1
+us,fort smith,3
+us,fortuna foothills,1
+us,fountain hills,2
+us,frankfort,2
+us,franklin park,1
+us,fredericksburg,1
+us,gahanna,1
+us,gainesville,4
+us,galesburg,1
+us,gallatin,1
+us,gallup,1
+us,galt,1
+us,garden city,14
+us,gatesville,2
+us,geneva,1
+us,georgetown,1
+us,gillette,1
+us,gladstone,1
+us,glasgow,3
+us,glenwood springs,1
+us,gloversville,1
+us,golden,4
+us,grafton,5
+us,grand forks,2
+us,grand island,2
+us,grants,5
+us,great bend,10
+us,greeley,1
+us,green valley,6
+us,greeneville,2
+us,greensburg,2
+us,greenville,1
+us,griffin,2
+us,guthrie,2
+us,guymon,13
+us,hamilton,1
+us,hanover,1
+us,harrison,1
+us,harrisonburg,1
+us,harrisonville,4
+us,hartselle,1
+us,harvard,2
+us,hastings,3
+us,hayesville,1
+us,hays,32
+us,haysville,2
+us,helena,1
+us,henderson,1
+us,hereford,15
+us,hermiston,1
+us,hilo,2
+us,hobbs,7
+us,holland,1
+us,hollins,1
+us,honolulu,2
+us,hope,1
+us,hopkinsville,1
+us,huntington,2
+us,huntsville,1
+us,huron,2
+us,hutchinson,8
+us,imperial,3
+us,independence,2
+us,iowa city,1
+us,ironton,1
+us,jackson,1
+us,jacksonville,1
+us,jamestown,1
+us,jasper,2
+us,jennings,1
+us,jerome,1
+us,johnson city,2
+us,johnstown,1
+us,junction city,2
+us,kansas city,1
+us,kaukauna,1
+us,kearney,9
+us,kerrville,3
+us,kewanee,1
+us,kingman,24
+us,klamath falls,1
+us,knoxville,1
+us,kokomo,1
+us,kyle,1
+us,la crosse,1
+us,la plata,1
+us,la quinta,1
+us,lafayette,1
+us,lake havasu city,24
+us,lamar,23
+us,lamesa,9
+us,lancaster,2
+us,laredo,1
+us,las cruces,1
+us,las vegas,2
+us,laurens,1
+us,lawrence,2
+us,lawton,2
+us,leander,2
+us,lebanon,2
+us,lenoir,1
+us,leon valley,2
+us,levelland,12
+us,lewisburg,1
+us,lewiston,1
+us,lewistown,3
+us,lewisville,1
+us,lexington,15
+us,lexington park,2
+us,liberal,6
+us,lincoln,3
+us,livingston,1
+us,lockport,1
+us,lorton,1
+us,los lunas,4
+us,louisville,1
+us,loveland,1
+us,lovington,7
+us,lubbock,6
+us,madison,1
+us,mandan,1
+us,manhattan,2
+us,marana,2
+us,marquette,1
+us,marshall,1
+us,marshfield,1
+us,martin,1
+us,maryville,2
+us,mason city,1
+us,menomonie,1
+us,mercedes,1
+us,meridian,1
+us,michigan city,1
+us,midland,2
+us,midlothian,1
+us,mint hill,1
+us,mitchell,2
+us,monroe,1
+us,montrose,1
+us,morganton,2
+us,morristown,1
+us,mountain home,2
+us,murfreesboro,1
+us,murray,1
+us,muscle shoals,2
+us,naples park,1
+us,natchitoches,1
+us,new orleans,1
+us,newberry,1
+us,newport,1
+us,newton,4
+us,niagara falls,1
+us,nixa,1
+us,noblesville,1
+us,nome,1
+us,norfolk,1
+us,north platte,14
+us,northampton,1
+us,oak ridge,2
+us,odessa,1
+us,omaha,1
+us,oneonta,1
+us,ontario,1
+us,orange cove,1
+us,orlando,1
+us,oshkosh,1
+us,ottawa,2
+us,overland park,1
+us,oxford,1
+us,oxnard,1
+us,paducah,2
+us,pahrump,22
+us,palmdale,1
+us,pampa,8
+us,paradise,1
+us,paragould,1
+us,paris,4
+us,park forest,1
+us,payson,5
+us,pecos,4
+us,peekskill,2
+us,phoenix,1
+us,pierre,5
+us,pittsburgh,1
+us,placerville,1
+us,plainview,42
+us,platteville,3
+us,plover,1
+us,plymouth,3
+us,ponca city,1
+us,poplar bluff,1
+us,portage,2
+us,portales,143
+us,porterville,1
+us,portland,1
+us,prescott,2
+us,prescott valley,1
+us,price,2
+us,pueblo,2
+us,pullman,1
+us,quartz hill,1
+us,quincy,1
+us,radford,2
+us,rapid valley,3
+us,raton,13
+us,redlands,2
+us,republic,2
+us,richmond,1
+us,ridgecrest,23
+us,river falls,1
+us,roanoke rapids,1
+us,robinson,1
+us,rock hill,1
+us,rock springs,1
+us,rocky mount,2
+us,rolla,1
+us,rome,1
+us,roswell,2
+us,ruidoso,3
+us,rumford,1
+us,russellville,2
+us,safford,5
+us,saginaw,1
+us,saint george,2
+us,saint joseph,3
+us,saint peter,1
+us,salem,1
+us,salina,4
+us,san angelo,6
+us,san antonio,2
+us,san juan capistrano,1
+us,sand springs,1
+us,sanford,1
+us,santa fe,2
+us,saraland,1
+us,schenectady,1
+us,scottsbluff,9
+us,seagoville,1
+us,searcy,1
+us,seguin,3
+us,selma,2
+us,sevierville,1
+us,seymour,1
+us,shasta lake,1
+us,shelby,2
+us,shelbyville,1
+us,sherman,2
+us,shiloh,1
+us,sierra vista,5
+us,silver city,2
+us,sioux falls,1
+us,snyder,6
+us,socorro,6
+us,somerset,3
+us,south bend,1
+us,south lake tahoe,1
+us,south lyon,1
+us,spartanburg,1
+us,spearfish,2
+us,spencer,1
+us,spring valley,16
+us,springfield,1
+us,springville,1
+us,starkville,1
+us,state college,1
+us,statesboro,5
+us,staunton,2
+us,stephenville,3
+us,sterling,26
+us,stillwater,2
+us,storm lake,1
+us,stratford,1
+us,sturgeon bay,1
+us,stuttgart,1
+us,sumter,1
+us,sun city west,4
+us,sunland park,1
+us,sunrise manor,3
+us,sweetwater,1
+us,sylacauga,1
+us,tacoma,1
+us,tahlequah,1
+us,taos,3
+us,taylor,1
+us,taylorville,1
+us,temple,2
+us,tooele,2
+us,torrington,5
+us,trinidad,1
+us,troy,1
+us,trumbull,1
+us,truth or consequences,2
+us,tucson,1
+us,tucumcari,8
+us,tupelo,2
+us,twentynine palms,10
+us,uvalde,1
+us,valley station,2
+us,vernon,3
+us,victoria,3
+us,vidalia,1
+us,waldoboro,1
+us,walker,1
+us,wapakoneta,1
+us,washington,1
+us,washougal,1
+us,waycross,1
+us,waynesboro,1
+us,weatherford,5
+us,weiser,1
+us,west bend,1
+us,west odessa,2
+us,west plains,1
+us,west wendover,4
+us,wethersfield,2
+us,wharton,1
+us,wichita falls,1
+us,williamsport,1
+us,williston,1
+us,wilmington,1
+us,wilson,1
+us,winchester,2
+us,winder,1
+us,windsor,1
+us,winfield,1
+us,winnemucca,13
+us,winslow,3
+us,winston-salem,1
+us,woodward,5
+us,wooster,1
+us,worland,1
+us,yarmouth,1
+us,york,1
+us,yuma,1
+uy,paso de los toros,1
+uy,paysandu,1
+uy,salto,2
+uz,kogon,1
+ve,coro,1
+ve,valera,1
+vn,hoi an,1
+vn,phan rang,1
+vn,soc trang,1
+ye,lahij,1
+za,adelaide,1
+za,atlantis,1
+za,brakpan,1
+za,bredasdorp,1509
+za,breyten,1
+za,butterworth,1
+za,calvinia,1
+za,cape town,1
+za,carnarvon,1
+za,ceres,2
+za,colesberg,1
+za,cradock,1
+za,danielskuil,1
+za,de aar,1
+za,ellisras,1
+za,empangeni,1
+za,graaff-reinet,1
+za,greytown,1
+za,hermanus,1
+za,kirkwood,1
+za,kokstad,2
+za,kroonstad,1
+za,kuruman,1
+za,lady frere,1
+za,lichtenburg,1
+za,malmesbury,1
+za,molteno,1
+za,oudtshoorn,2
+za,port alfred,4852
+za,port elizabeth,40
+za,pretoria,1
+za,prieska,3
+za,stellenbosch,1
+za,thaba nchu,1
+za,upington,2
+za,warrenton,1
+za,willowmore,2
+za,winburg,1
+zw,bindura,1
+zw,chinhoyi,1
+zw,masvingo,1
